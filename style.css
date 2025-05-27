@@ -5,6 +5,19 @@
     font-family: "Poppins", sans-serif;
 }
 
+.header {
+    background-color: #1B4C2C;
+}
+
+.header ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header img {
+    width: 8%;
+}
+
 main{
     background-color: #FDF1E6;
 }
